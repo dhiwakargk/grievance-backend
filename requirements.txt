@@ -1,0 +1,16 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+pillow
+pytesseract
+python-dotenv
+langchain
+langchain-groq
+requests
+
+# Production dependencies
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary

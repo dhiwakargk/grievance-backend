@@ -1,0 +1,26 @@
+﻿python.exe : Creating test database 
+for alias 'default'...
+At line:1 char:1
++ & .\venv\Scripts\python.exe 
+manage.py test 
+core.tests.test_ai_classif ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpeci 
+   fied: (Creating test d...as 'defau  
+  lt'...:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCo 
+   mmandError
+ 
+
+..
+---------------------------------------
+-------------------------------
+Ran 2 tests in 4.072s
+
+OK
+Destroying test database for alias 
+'default'...
+
+Found 2 test(s).
+System check identified no issues (0 silenced).
